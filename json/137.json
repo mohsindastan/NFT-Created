@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #137",
+  "description": "Pavel Durov privacy keeper",
+  "image": "https://crimson-above-skunk-116.mypinata.cloud/ipfs/QmfUTz7KQ1Y9s8QqFBUscHeZVVGXufS6jAb5XymAoDq6bE/137.png",
+  "dna": "c73204141eb4437dae2d884a4a480839927b3534",
+  "edition": 137,
+  "date": 1714760173800,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "warsaw palace of culture"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "3d glasess"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "monaco"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "shiba inu dog"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "without"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #526",
+  "description": "Pavel Durov privacy keeper",
+  "image": "https://crimson-above-skunk-116.mypinata.cloud/ipfs/QmfUTz7KQ1Y9s8QqFBUscHeZVVGXufS6jAb5XymAoDq6bE/526.png",
+  "dna": "506915c20956591e73c0584712537175990f98ff",
+  "edition": 526,
+  "date": 1714760531043,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "warsaw palace of culture"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "nerd"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "thailand"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "mma gloves"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "without"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

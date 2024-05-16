@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #90",
+  "description": "Pavel Durov privacy keeper",
+  "image": "https://crimson-above-skunk-116.mypinata.cloud/ipfs/QmfUTz7KQ1Y9s8QqFBUscHeZVVGXufS6jAb5XymAoDq6bE/90.png",
+  "dna": "3586a5b7f14c930c1bf26187f29748de6cf8d180",
+  "edition": 90,
+  "date": 1714760119935,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "eiffel tower"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "romania"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "mma gloves"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "without"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #900",
+  "description": "Pavel Durov privacy keeper",
+  "image": "https://crimson-above-skunk-116.mypinata.cloud/ipfs/QmfUTz7KQ1Y9s8QqFBUscHeZVVGXufS6jAb5XymAoDq6bE/900.png",
+  "dna": "620fb223f27810b71e924834bc183a9aa614646a",
+  "edition": 900,
+  "date": 1714760880691,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "eiffel tower"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "rayban"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "ukraine"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "microphone"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

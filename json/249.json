@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #249",
+  "description": "Pavel Durov privacy keeper",
+  "image": "https://crimson-above-skunk-116.mypinata.cloud/ipfs/QmfUTz7KQ1Y9s8QqFBUscHeZVVGXufS6jAb5XymAoDq6bE/249.png",
+  "dna": "fff725b67f8ce31fcdecd77bd9a562f851d4ef0a",
+  "edition": 249,
+  "date": 1714760279118,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "statue of christ RIO"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "harry potter glasses"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "nigeria"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pepe frog"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "boxing helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

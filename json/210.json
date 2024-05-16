@@ -1,0 +1,36 @@
+{
+  "name": "Pavel Durov privacy keeper #210",
+  "description": "Pavel Durov privacy keeper",
+  "image": "  "image": "ipfs://NewUriToReplace/210.png",
+  210.png",
+  "dna": "9a1eacf806b21a413380289a07272956f933ad74",
+  "edition": 210,
+  "date": 1714760244808,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "statue of christ RIO"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "without"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "usa"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "boxing gloves"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "crown"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

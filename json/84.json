@@ -1,0 +1,35 @@
+{
+  "name": "Pavel Durov privacy keeper #84",
+  "description": "Pavel Durov privacy keeper",
+  "image": "ipfs://NewUriToReplace/84.png",
+  "dna": "c1e6cb837ebe4076689f83c219d5540a5c49e61a",
+  "edition": 84,
+  "date": 1714760111812,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "capitol usa"
+    },
+    {
+      "trait_type": "Base",
+      "value": "body"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "3d glasess"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "india"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "without"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "chinese hat ancient"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
